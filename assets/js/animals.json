@@ -1,0 +1,36 @@
+[
+    {
+        "animal":"cat",
+        "icon":"<i class='fas fa-cat'></i>"
+    },{
+        "animal":"otter",
+        "icon":"<i class='fas fa-otter'></i>"
+    },{
+        "animal":"hippo",
+        "icon":"<i class='fas fa-hippo'></i>"
+    },{
+        "animal":"dog",
+        "icon":"<i class='fas fa-dog'></i>"
+    },{
+        "animal":"spider",
+        "icon":"<i class='fas fa-spider'></i>"
+    },{
+        "animal":"kiwi-bird",
+        "icon":"<i class='fas fa-kiwi-bird'></i>"
+    },{
+        "animal":"horse",
+        "icon":"<i class='fas fa-horse'></i>"
+    },{
+        "animal":"frog",
+        "icon":"<i class='fas fa-frog'></i>"
+    },{
+        "animal":"fish",
+        "icon":"<i class='fas fa-fish'></i>"
+    },{
+        "animal":"dove",
+        "icon":"<i class='fas fa-dove'></i>"
+    },{
+        "animal":"crow",
+        "icon":"<i class='fas fa-crow'></i>"
+    }
+]
